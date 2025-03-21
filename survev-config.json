@@ -1,0 +1,53 @@
+{
+    "gameServer": {
+        "apiServerUrl": "https://new-client.tailf587b3.ts.net/"
+    },
+    "regions": {
+        "na": {
+            "https": true,
+            "address": "new-server.tailf587b3.ts.net",
+            "l10n": "index-north-america"
+        }
+    },
+    "thisRegion": "na",
+    "modes": [
+        {
+            "mapName": "main",
+            "teamMode": 1,
+            "enabled": true
+        },
+        {
+            "mapName": "potato",
+            "teamMode": 2,
+            "enabled": true
+        },
+        {
+            "mapName": "cobalt",
+            "teamMode": 4,
+            "enabled": true
+        }
+    ],
+    "gameConfig": {
+        "player": {
+            "defaultItems": {
+                "backpack": "backpack03",
+                "helmet": "",
+                "chest": "",
+                "scope": "4xscope",
+                "perks": [],
+                "inventory": {
+                    "frag": 3,
+                    "smoke": 1,
+                    "mirv": 1,
+                    "bandage": 15,
+                    "healthkit": 2,
+                    "soda": 4,
+                    "painkiller": 1,
+                    "1xscope": 1,
+                    "2xscope": 1,
+                    "4xscope": 1
+                }
+            }
+        }
+    }
+}

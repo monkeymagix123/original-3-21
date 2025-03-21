@@ -6,7 +6,7 @@ client/atlas-builder/pngs
 # legacy
 resurviv-config.json
 # new
-survev-config.json
+# survev-config.json
 
 # env file
 .env
