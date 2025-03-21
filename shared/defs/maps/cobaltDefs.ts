@@ -58,7 +58,8 @@ const mapDef: PartialMapDef = {
         },
         fixedSpawns: [
             {
-                class_shell_01: 15,
+                // class_shell_01: 15,
+                class_shell_01: 300,
             },
         ],
         spawnReplacements: [

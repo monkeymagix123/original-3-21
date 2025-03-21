@@ -1,28 +1,17 @@
 {
-    "gameServer": {
-        "apiServerUrl": "https://new-client.tailf587b3.ts.net/"
-    },
-    "regions": {
-        "na": {
-            "https": true,
-            "address": "new-server.tailf587b3.ts.net",
-            "l10n": "index-north-america"
-        }
-    },
-    "thisRegion": "na",
     "modes": [
         {
-            "mapName": "main",
+            "mapName": "potato",
             "teamMode": 1,
             "enabled": true
         },
         {
-            "mapName": "potato",
+            "mapName": "cobalt",
             "teamMode": 2,
             "enabled": true
         },
         {
-            "mapName": "cobalt",
+            "mapName": "faction",
             "teamMode": 4,
             "enabled": true
         }
