@@ -61,6 +61,14 @@ const mapDef: PartialMapDef = {
                 class_shell_01: 15,
             },
         ],
+        spawnReplacements: [
+            {
+                bush_01: "bush_01cb",
+                stone_01: "stone_01cb",
+                stone_03: "stone_03cb",
+                tree_01: "tree_01cb",
+            },
+        ]
     },
     /* STRIP_FROM_PROD_CLIENT:END */
     gameMode: {
